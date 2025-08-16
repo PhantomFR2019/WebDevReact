@@ -1,5 +1,5 @@
 // Hi there! This is the heart of my React practice project.
-// Here, I share my favorite browsers and why I recommend them.
+// Here, I share my favorite browsers.
 // Feel free to explore and let me know what you think!
 
 import { useState } from 'react'
